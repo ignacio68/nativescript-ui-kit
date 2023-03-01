@@ -1,0 +1,35 @@
+{
+  "name": "@ignacio68/nativescript-label-marquee",
+  "version": "1.0.0",
+  "description": "Add a plugin description",
+  "main": "index",
+  "typings": "index.d.ts",
+  "nativescript": {
+    "platforms": {
+      "ios": "6.0.0",
+      "android": "6.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ignacio68/plugins.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "TypeScript",
+    "iOS",
+    "Android"
+  ],
+  "author": {
+    "name": "ignacio68",
+    "email": "ignaciolopezamor@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ignacio68/plugins/issues"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/ignacio68/plugins",
+  "readmeFilename": "README.md",
+  "bootstrapper": "@nativescript/plugin-seed"
+}

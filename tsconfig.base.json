@@ -20,7 +20,9 @@
       }
     ],
     "paths": {
-      "@demo/shared": ["tools/demo/index.ts"]
+      "@demo/shared": ["tools/demo/index.ts"],
+      "@ignacio68/*": ["packages/*"],
+      "@ignacio68/nativescript-label-marquee": ["packages/nativescript-label-marquee/index.d.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
